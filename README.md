@@ -21,7 +21,7 @@
 - ⚙️ I automate workflows with **n8n**, **Power Automate** and **REST APIs**.
 - 🌎 Spanish (native) · English (B2)
 
-> 🇨🇴 Ingeniero de Sistemas. Desarrollo soluciones de software y asistentes con IA para negocios reales.
+> 🌎 Ingeniero de Sistemas. Desarrollo soluciones de software y asistentes con IA para negocios reales.
 
 ---
 
@@ -84,30 +84,21 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brayan744&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brayan744&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brayan744&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brayan744&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brayan744&theme=tokyonight&utcOffset=-5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brayan744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan744&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Brayan744&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🐍 Contribution snake
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brayan744&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brayan744/Brayan744/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brayan744/Brayan744/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Brayan744/Brayan744/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brayan744&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
 
 ---
 
