@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://brayan.asysweb.com"><img src="https://img.shields.io/badge/Portfolio-brayan.asysweb.com-6EFFC1?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/brayan-de-jesus-mu%C3%B1oz-acu%C3%B1a-335444349/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:brayanmunioz6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Barranquilla,_Colombia-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -111,4 +112,4 @@
 
 ---
 
-<p align="center"><b>Open to freelance projects and opportunities in software development, automation and AI.</b><br/>📫 brayanmunioz6@gmail.com</p>
+<p align="center"><b>Open to freelance projects and opportunities in software development, automation and AI.</b><br/>🌐 <a href="https://brayan.asysweb.com">brayan.asysweb.com</a> · 📫 brayanmunioz6@gmail.com</p>
